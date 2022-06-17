@@ -7,7 +7,7 @@
 
 
 ## Performance 
-- In the original paper, the result in terms of classification accuracies of Cora dataset in transductive learning task is about 83.0%. This GAT model obtains the accuracy about 85% in a single run.
+In the original paper, the result in terms of classification accuracies of Cora dataset in transductive learning task is about 83.0%. This GAT model obtains the accuracy about 85% in a single run.
 
 ### Experiment result
 
