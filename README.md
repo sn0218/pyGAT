@@ -2,7 +2,7 @@
 
 ## Description
 - The project is the PyTorch implementation of Graph Attention Network (GAT). 
-- The GAT model presented by Veličković et. al (2017, https://arxiv.org/abs/1710.10903) and the official repository for the GAT is available in https://github.com/PetarV-/GAT 
+- The GAT model is presented by Veličković et. al (2017, https://arxiv.org/abs/1710.10903) and the official repository for the GAT is available in https://github.com/PetarV-/GAT 
 - In this project, I modify the code based on the Pytorch implementation presented by Diego999 (https://github.com/Diego999/pyGAT). Visualizations are added in this project to demonstrate the meaningful representations such as feature maps, attention maps and t-SNE visualization of the model.
 
 
@@ -46,6 +46,7 @@ Nodes classified in the same class with the same colour are clustered.
 
 
 ## Reference
+If you make advantage of the GAT model in your research, please cite the following in your manuscript:
 ```
 @article{
   velickovic2018graph,
@@ -57,3 +58,6 @@ Nodes classified in the same class with the same colour are clustered.
   note={accepted as poster},
 }
 ```
+
+## Licence
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gordicaleksa/pytorch-GAT/blob/master/LICENCE)
