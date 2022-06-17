@@ -13,7 +13,7 @@ This GAT model obtains the accuracy about 85% in a single run.
 
 ### Experiment result
 
-<img src="https://user-images.githubusercontent.com/48129546/174257758-340d0cc6-f11f-4b68-bb67-35d4be4de573.JPG" width="400">
+<img src="https://user-images.githubusercontent.com/48129546/174257758-340d0cc6-f11f-4b68-bb67-35d4be4de573.JPG" width="600">
 
 ![gat_result2](https://user-images.githubusercontent.com/48129546/174257940-a23d77f2-3c93-482d-b710-21ad0700d939.JPG)
 
