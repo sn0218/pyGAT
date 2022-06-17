@@ -60,4 +60,4 @@ If you make advantage of the GAT model in your research, please cite the followi
 ```
 
 ## Licence
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/gordicaleksa/pytorch-GAT/blob/master/LICENCE)
+MIT
