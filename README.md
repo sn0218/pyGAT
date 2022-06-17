@@ -38,7 +38,7 @@ feature vectors in the second layer as illustrated in figure 3. The dimension of
 Nodes classified in the same class with the same colour are clustered. 
 
 ![final_layer_GAT_tSNE_visualization](https://user-images.githubusercontent.com/48129546/174259439-434b8232-d7f1-437b-b504-62c44037ce89.png)
-<img src="[https://your-image-url.type](https://user-images.githubusercontent.com/48129546/174259439-434b8232-d7f1-437b-b504-62c44037ce89.png)" width="600">
+<img src="https://user-images.githubusercontent.com/48129546/174259439-434b8232-d7f1-437b-b504-62c44037ce89.png" width="600">
 
 
 ## Reference
