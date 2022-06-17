@@ -45,8 +45,7 @@ Nodes classified in the same class with the same colour are clustered.
 <img src="https://user-images.githubusercontent.com/48129546/174259439-434b8232-d7f1-437b-b504-62c44037ce89.png" width="600">
 
 
-## Reference
-If you make advantage of the GAT model in your research, please cite the following in your manuscript:
+## Citation
 ```
 @article{
   velickovic2018graph,
