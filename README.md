@@ -37,7 +37,7 @@ feature vectors in the second layer as illustrated in figure 3. The dimension of
 2708 nodes and 7 classes. We leverage t-SNE to map the 7-diemnsional vectors into 2d vectors to plot the nodes in a 2d plane. 
 Nodes classified in the same class with the same colour are clustered. 
 
-![final_layer_GAT_tSNE_visualization](https://user-images.githubusercontent.com/48129546/174259439-434b8232-d7f1-437b-b504-62c44037ce89.png | | width=600)
+![final_layer_GAT_tSNE_visualization](https://user-images.githubusercontent.com/48129546/174259439-434b8232-d7f1-437b-b504-62c44037ce89.png | width=600)
 
 
 ## Reference
